@@ -1,1 +1,1 @@
-A newsletter sign up from frontend mentor
+A newsletter sign up from frontendmentor
